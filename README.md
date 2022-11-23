@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lap0u)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lap0u&show_icons=true&theme=tokyonight)### Hi there 👋
 
 <!--
 **Lap0u/Lap0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
